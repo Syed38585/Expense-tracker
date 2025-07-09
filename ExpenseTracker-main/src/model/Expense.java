@@ -3,7 +3,7 @@ package model;
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
 
-// Klasa reprezentująca jeden wydatek
+// class which takes care of expenses
 public class Expense {
     private int id;
     private BigDecimal amount;
